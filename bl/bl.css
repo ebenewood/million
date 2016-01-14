@@ -1,14 +1,3 @@
-h2.intro {
-  color:red;
-
-}
-p.intro{
-  color:blue;
-}
-img.intro{
-  border: 5px solid red;
-  border-color: green;
-}
 .latin {
   font-family: fantasy;
 }
